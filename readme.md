@@ -37,7 +37,7 @@ This nest.js microservice snippet has included the api-gateway , auth, users, an
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/webethics/code-snippet-nest.git
+git clone https://github.com/ChahatSharma100/code-snippet-node.git
 cd code-snippet-nest
 ```
 ```bash
